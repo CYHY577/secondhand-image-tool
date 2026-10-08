@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.zip
+*.docx
+*.pdf
+*密码*
+*部署状态*
+.DS_Store
+Thumbs.db
+node_modules/
